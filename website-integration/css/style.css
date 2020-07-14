@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap");
+
+body {
+  overflow-x: hidden;
+  font-family: "Source Sans Pro", sans-serif;
+  color: #505962;
+  margin: 0;
+  padding: 0;
+}
+
+#about {
+  background-image: url("bg.png");
+  width: 100%;
+}
+
+.offset:before {
+  display: block;
+  content: "";
+  height: 4rem;
+  margin-top: 2rem;
+}
+
+/* Landing Page */
+.home-inner {
+  background-image: url("../back2.png");
+}
+
+.aboutimg {
+  width: 100%;
+  max-width: 100%;
+}
+
+.btn-primary {
+  border-width: medium;
+  border-radius: 25px;
+  text-transform: uppercase;
+  font-size: 1rem;
+  padding: 0.6rem 1.2rem;
+  margin: 1rem;
+  color: #fff;
+  background-color: #42a5f5;
+  border-color: #42a5f5;
+}
+
+.btn-primary:hover {
+  background-color: #2479be;
+  border-color: #2479be;
+}
+
+h3.heading {
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+}
+
+.heading-underline {
+  width: 3rem;
+  height: 0.2rem;
+  background-color: #42a5f5;
+  margin: 0 auto 2rem;
+}
+
+.about0 p {
+  font-size: 1rem;
+  padding: 0 10%;
+}
+
+.about1 h3 {
+  font-size: 1.3rem;
+  padding-bottom: 0.4rem;
+}
+
+.about1 p {
+  font-size: 1rem;
+  padding: 0 10%;
+}

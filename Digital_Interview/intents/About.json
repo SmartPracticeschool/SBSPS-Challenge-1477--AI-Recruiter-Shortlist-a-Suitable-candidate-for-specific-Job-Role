@@ -1,0 +1,169 @@
+{
+  "id": "588de03d-922e-4992-aa3e-fe42805e268f",
+  "name": "About",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b403f9ab-53bf-4799-a066-2badb7b8e234",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "candidate_name",
+          "value": "$candidate_name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please Enter your Name"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "6ca258ba-a7b7-44dd-8e45-817a9403f088",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "candidate_email",
+          "value": "$candidate_email",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "$candidate_name Please Enter your Email."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a3bff4de-54c9-427a-be91-9e2a74c01136",
+          "required": true,
+          "dataType": "@sys.url",
+          "name": "candidate_resume",
+          "value": "$candidate_resume",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Awesome!! Now, I\u0027d like to take a look at your resume. Kindly share the link of your Resume."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "ee521252-25cd-4b81-be86-3d59e5f9fb00",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "candidate_about",
+          "value": "$candidate_about",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Cool!! Can you tell me a more about yourself i.e Your Skills, Acheivement, Qualification, etc."
+            },
+            {
+              "lang": "en",
+              "value": "Cool!!..Could you tell me more about yourself  i.e Your Skills, Acheivement, Qualification, etc."
+            },
+            {
+              "lang": "en",
+              "value": "Cool!! Please tell me more about yourself  i.e Your Skills, Acheivement, Qualification, etc."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "af6191ff-1038-4b4a-8d9c-cc56af3f0ddd",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "candidate_experience",
+          "value": "$candidate_experience",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please Tell me your Experience and Why you want to apply for this job?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "cfd4f774-fc1a-49c3-8af5-578f1e88673b",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "candidate_no",
+          "value": "$candidate_no",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Now I need Your phone number, in case we need it to contact you with more questions."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "86ffef2c-0ab5-46ca-95e1-d6c5cb24c980",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "candidate_location",
+          "value": "$candidate_location",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please Enter your Current location."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true,
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,78 @@
+{
+  "id": "12f9e42e-8e02-4850-b766-7450b4759a3c",
+  "name": "Internship",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Okay Cool!!... Recently our company provides internships in the below mention field."
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "event": {
+                    "languageCode": "en",
+                    "parameter": {},
+                    "name": "SoftwareDeveloper"
+                  },
+                  "subtitle": "Description",
+                  "title": "Software Developer",
+                  "type": "list"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "event": {
+                    "languageCode": "en",
+                    "parameter": {},
+                    "name": "GraphicDesigner"
+                  },
+                  "type": "list",
+                  "subtitle": "Description",
+                  "title": "Graphic Designer"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "event": {
+                    "name": "AndroidDeveloper",
+                    "parameter": {},
+                    "languageCode": "en"
+                  },
+                  "subtitle": "Description",
+                  "title": "Android Developer"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

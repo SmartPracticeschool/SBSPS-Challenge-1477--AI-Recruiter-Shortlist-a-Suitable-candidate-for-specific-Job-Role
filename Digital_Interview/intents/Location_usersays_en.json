@@ -1,0 +1,16 @@
+[
+  {
+    "id": "6ece6633-6d5a-4521-8dbc-e63498481ae1",
+    "data": [
+      {
+        "text": "location",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

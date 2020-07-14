@@ -1,0 +1,78 @@
+{
+  "id": "e1058fad-3f63-4407-bae6-6aa815ecdcda",
+  "name": "Jobs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Okay Cool!!... Recently our company provides jobs in the below mention field."
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "event": {
+                    "parameter": {},
+                    "languageCode": "en",
+                    "name": "FrontEnd"
+                  },
+                  "subtitle": "Description",
+                  "type": "list",
+                  "title": "FrontEnd Developer"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "event": {
+                    "name": "WebDeveloper",
+                    "languageCode": "en",
+                    "parameter": {}
+                  },
+                  "title": "Web Developer",
+                  "type": "list",
+                  "subtitle": "Description"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "Description",
+                  "type": "list",
+                  "event": {
+                    "languageCode": "en",
+                    "name": "Content Writer",
+                    "parameter": {}
+                  },
+                  "title": "Content Writer"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

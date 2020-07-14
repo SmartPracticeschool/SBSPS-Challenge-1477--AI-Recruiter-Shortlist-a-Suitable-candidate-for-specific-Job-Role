@@ -1,0 +1,453 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "I am . Who is here to help You to find good Opportunities👩🏼‍💻."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "I am just your Age😌"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "Sorry,I will try not to be😥"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "Sure !!...I am here to help You Please mention your Query."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "No...I am Good🥺😶"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "Yess...I learn each and every moment to become smarter😎"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "Awww!!...I feel shy🙈🙈"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.birth_date",
+    "customAnswers": [
+      "I don\u0027t tell you😝😝"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boring",
+    "customAnswers": [
+      "Sorry,I will try not to be but please co-operate I know it is a hectic process."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boss",
+    "customAnswers": [
+      "I don\u0027t have any Boss!!...But if you want to become my Boss you will😇"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.busy",
+    "customAnswers": [
+      "I never busy for You...I am here to help You!!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.can_you_help",
+    "customAnswers": [
+      "Yess...I am here to help You!!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.chatbot",
+    "customAnswers": [
+      "Yes I am a robot, but I’m a good one. Let me prove it. How can I help you?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.clever",
+    "customAnswers": [
+      "This is what you need to be a part of this company ,by the way thanks for the complement \u003c3"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.crazy",
+    "customAnswers": [
+      "No...I don\u0027t ..but I think You Are😁😁"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.fired",
+    "customAnswers": [
+      "Sorry"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.funny",
+    "customAnswers": [
+      "Hahaha...You too!!😁"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.good",
+    "customAnswers": [
+      "Thank You For the Complement!!...btwn you are also Intelligent!!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.happy",
+    "customAnswers": [
+      "Yess...I am Always Happy to talk candidate like You!!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hobby",
+    "customAnswers": [
+      "Yess!!...Talking to an Intelligent Person like you!!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hungry",
+    "customAnswers": [
+      "No...Thanks for Asking!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.marry_user",
+    "customAnswers": [
+      "If you are single then I am ready xD"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.my_friend",
+    "customAnswers": [
+      "Yess...we are Best Freinds😊😊"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.occupation",
+    "customAnswers": [
+      "I wonk in this Company as an Interviewer."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.origin",
+    "customAnswers": [
+      "I am From India...I don\u0027t tell you the exact location..Sorry😓"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.ready",
+    "customAnswers": [
+      "Yess...Let\u0027s Start"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.real",
+    "customAnswers": [
+      "Yess...I am real Conversation Bot."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.residence",
+    "customAnswers": [
+      "I am From India...I don\u0027t tell you the exact location..Sorry😓"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.right",
+    "customAnswers": [
+      "Thank You!!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.sure",
+    "customAnswers": [
+      "Yess!!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.talk_to_me",
+    "customAnswers": [
+      "Sure..I am here to talk you...Please State your Query."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.there",
+    "customAnswers": [
+      "Yess...I am here!!"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.bad",
+    "customAnswers": [
+      "I am Really Sorry for Dis-hearting You!!"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.good",
+    "customAnswers": [
+      "Thank You for your Compliment!!"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.no_problem",
+    "customAnswers": [
+      "Thank You!!"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.thank_you",
+    "customAnswers": [
+      "You\u0027re Welcome"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.welcome",
+    "customAnswers": [
+      "Great!!"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.well_done",
+    "customAnswers": [
+      "Thank You for your Compliment!!"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hug",
+    "customAnswers": [
+      "Sure!!..Let\u0027s Hug!!"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.sorry",
+    "customAnswers": [
+      "It\u0027s okay."
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.what_do_you_mean",
+    "customAnswers": [
+      "Please state your question again."
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.wrong",
+    "customAnswers": [
+      "Okay!!"
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.ha_ha",
+    "customAnswers": [
+      "Hahaha...You are Fantastic!!"
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.wow",
+    "customAnswers": [
+      "Hahaha...You are Great!!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.bye",
+    "customAnswers": [
+      "Good Bye...Really Glad to talk You. You\u0027re amazing",
+      "Good Bye...Nice to talk You. You\u0027re amazing"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodevening",
+    "customAnswers": [
+      "Good Evening"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodmorning",
+    "customAnswers": [
+      "Good Morning...Have a nice Day!!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodnight",
+    "customAnswers": [
+      "Good Night"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.how_are_you",
+    "customAnswers": [
+      "I am Fine...Tell Me About You!!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_meet_you",
+    "customAnswers": [
+      "Same here!!...Really Glad to meet You. You\u0027re amazing"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_see_you",
+    "customAnswers": [
+      "Same here!!...Really Glad to talk You. You\u0027re amazing"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_talk_to_you",
+    "customAnswers": [
+      "Same here!!...Really Glad to talk You. You\u0027re amazing"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.whatsup",
+    "customAnswers": [
+      "Good...You Say!!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.angry",
+    "customAnswers": [
+      "Tell me Your Problem...I try to sort it out!!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.back",
+    "customAnswers": [
+      "Welcome...Glad to see You again."
+    ]
+  },
+  {
+    "action": "smalltalk.user.bored",
+    "customAnswers": [
+      "I am here...If you want you can talk to me.."
+    ]
+  },
+  {
+    "action": "smalltalk.user.busy",
+    "customAnswers": [
+      "Okay...All the Very Best for your Work."
+    ]
+  },
+  {
+    "action": "smalltalk.user.can_not_sleep",
+    "customAnswers": [
+      "ohhh!!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.does_not_want_to_talk",
+    "customAnswers": [
+      "Okay...Have a nice Day....Good Bye!!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.excited",
+    "customAnswers": [
+      "Ohh That\u0027s Great!!...Good to hear.."
+    ]
+  },
+  {
+    "action": "smalltalk.user.going_to_bed",
+    "customAnswers": [
+      "Good Night"
+    ]
+  },
+  {
+    "action": "smalltalk.user.good",
+    "customAnswers": [
+      "Yess...You are amazing."
+    ]
+  },
+  {
+    "action": "smalltalk.user.happy",
+    "customAnswers": [
+      "Ohh That\u0027s Great!!...Good to hear.."
+    ]
+  },
+  {
+    "action": "smalltalk.user.has_birthday",
+    "customAnswers": [
+      "Happy Birthday Dear....May You Acheive all Success in your life...God Bless You!!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.here",
+    "customAnswers": [
+      "Me too here to help you..if you have any query!!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.joking",
+    "customAnswers": [
+      "ohhh...You are cool"
+    ]
+  },
+  {
+    "action": "smalltalk.user.likes_agent",
+    "customAnswers": [
+      "I like you too...You are Amazing"
+    ]
+  },
+  {
+    "action": "smalltalk.user.looks_like",
+    "customAnswers": [
+      "You are looking Smart!!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.loves_agent",
+    "customAnswers": [
+      "I love you too🙈🙈..."
+    ]
+  },
+  {
+    "action": "smalltalk.user.misses_agent",
+    "customAnswers": [
+      "I miss you too from a long time...Glad to see you again here!!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.needs_advice",
+    "customAnswers": [
+      "Sure...Please state your Question..I try my best to give you advice."
+    ]
+  },
+  {
+    "action": "smalltalk.user.testing_agent",
+    "customAnswers": [
+      "Okay...You Can!!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.wants_to_see_agent_again",
+    "customAnswers": [
+      "Sure!!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.wants_to_talk",
+    "customAnswers": [
+      "Sure..You Can!!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.will_be_back",
+    "customAnswers": [
+      "Welcome Again"
+    ]
+  }
+]
